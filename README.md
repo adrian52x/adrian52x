@@ -6,7 +6,7 @@
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <p align="center">
+  <p >
     <a href="https://github.com/adrian52x/github-readme-stats"><img alt="adrian52x's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adrian52x&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
