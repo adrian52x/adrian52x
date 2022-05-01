@@ -10,7 +10,7 @@
     <a href="https://github.com/adrian52x/github-readme-stats"><img alt="adrian52x's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adrian52x&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrian52x&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="adrian52x" height="192px"/>
 
 
 
