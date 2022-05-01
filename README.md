@@ -2,6 +2,12 @@
 
 ## 📊 Github Stats
 
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=adrian52x&label=Profile%20views&color=0e75b6&style=plastic" alt="adrian52x" /> 
+	<a href = "https://commits.top/egypt.html" target="_blank">
+		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="adrian52x" target="_blank"/> 
+	</a>
+</p>
 
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
