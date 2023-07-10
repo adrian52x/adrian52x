@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## 📊 Github Stats
+## 📊 Github Stats 
 
 <img src="https://komarev.com/ghpvc/?username=adrian52x&label=Profile%20views&color=0e75b6&style=plastic" alt="adrian52x" />
 
