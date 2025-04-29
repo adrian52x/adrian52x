@@ -1,4 +1,4 @@
-### **[Portfolio](https://adrian-enachi-portfolio.netlify.app/)**
+### ** <a href="https://adrian-enachi-portfolio.netlify.app" target="_blank">Visit my Portfolio</a> **
 
 
 ## 📊 Github Stats 
